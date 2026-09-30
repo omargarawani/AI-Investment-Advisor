@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+logs/
+data/raw/
+*.db
+.pytest_cache/
+demo/backup_video.mp4
